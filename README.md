@@ -2,7 +2,7 @@
 <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5dDlhdW9mOW5jYmRsbjNvcTI2b2RycHI1MTQ1cTdsNTFkZmJlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ov9jDblR6W2d6NfJC/giphy.gif width=40px /></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Engineer%20;%20Preparing%20for%20JEE%202026%20;Love%20Coding%20and%20Maths%20;New%20to%20GitHub&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Engineer%20;%20;Love%20Coding%20and%20Maths%20;New%20to%20GitHub&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">Welcome to my GitHub profile! I'm Mayank, an aspiring engineer. I am new to coding, exploring the world of programming, and learning how to contribute to projects on GitHub.</p>

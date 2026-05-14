@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Engineer%20;%20Preparing%20for%20JEE%202026%20;Love%20Coding%20and%20Maths%20;New%20to%20GitHub&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
 </p>
 
-<p align="center">Welcome to my GitHub profile! I'm Mayank, an aspiring engineer currently preparing for JEE 2026. I am new to coding, exploring the world of programming, and learning how to contribute to projects on GitHub.</p>
+<p align="center">Welcome to my GitHub profile! I'm Mayank, an aspiring engineer. I am new to coding, exploring the world of programming, and learning how to contribute to projects on GitHub.</p>
 
 ![](https://komarev.com/ghpvc/?username=mayankgokhe&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gokhe-22168b287/)
@@ -22,7 +22,6 @@
 - Exploring JavaScript
 
 #### **Some Goals:**
-- Crack JEE 2026 ✨
 - Build my first project on GitHub 🚀
 - Keep learning and exploring coding languages like Python and JavaScript
 
